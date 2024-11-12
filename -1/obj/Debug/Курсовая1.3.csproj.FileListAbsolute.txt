@@ -1,0 +1,13 @@
+C:\Users\User109-4\Source\Repos\-1\bin\Debug\Курсовая1.3.exe.config
+C:\Users\User109-4\Source\Repos\-1\bin\Debug\Курсовая1.3.exe
+C:\Users\User109-4\Source\Repos\-1\bin\Debug\Курсовая1.3.pdb
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1.3.csproj.AssemblyReference.cache
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1._3.Auth.resources
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1._3.menu.resources
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1._3.Properties.Resources.resources
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1._3.Question.resources
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1._3.Reg.resources
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1.3.csproj.GenerateResource.cache
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1.3.csproj.CoreCompileInputs.cache
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1.3.exe
+C:\Users\User109-4\Source\Repos\-1\obj\Debug\Курсовая1.3.pdb
